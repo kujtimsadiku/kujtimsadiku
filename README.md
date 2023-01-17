@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kujtimsadiku" alt="kujtimsadiku" /></a> </p>
 
-- ✅ Projects finished recently [GunnerCommanderMAC](https://github.com/kujtimsadiku/GunnerCommanderMAC)
+- ✅ Projects finished recently [GunnerCommanderMAC](https://github.com/kujtimsadiku/GunnerCommanderMAC) / For Windows [GunnerCommanderWIN](https://github.com/kujtimsadiku/GunnerCommanderWIN)
 
 - 🌱 I’m currently learning **.NET, C# and Unity**
 
