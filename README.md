@@ -5,7 +5,7 @@
 
 - ✅ Projects finished recently [GunnerCommanderMAC](https://github.com/kujtimsadiku/GunnerCommanderMAC) / For Windows [GunnerCommanderWIN](https://github.com/kujtimsadiku/GunnerCommanderWIN)
 
-- 🌱 I’m currently learning **.NET, C# and Unity**
+- 🌱 I’m currently learning ** C# and Unity**
 
 - 💬 Ask me about **my projects**
 
