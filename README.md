@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **C#, Unity and Azure Fundamentals**
 
+- 👨🏻‍💻 Currently working on **ft_printf**
+
 - 💬 Ask me about **my projects**
 
 - 📫 How to reach me **kuite.s@hotmail.com**
-
-- ⚡ Fun fact **I can cook 1 minute noodles in 59 seconds. Sounds easy? Give it a try and tell me how it went.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
