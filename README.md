@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kujtimsadiku" alt="kujtimsadiku" /></a> </p>
 
-- ✅ Projects finished recently **GunnerCommander**
+- ✅ Projects finished recently **ft_printf**
 
 - 🌱 I’m currently learning **HTML, CSS & Javascript**
 
-- 👨🏻‍💻 Currently working on **The Odin Project (Fullstack course)**
+- 👨🏻‍💻 Currently working on **Fullstack open**
 
 - 💬 Ask me about **my projects**
 
