@@ -5,7 +5,7 @@
 
 - ✅ Projects finished recently **ft_printf**
 
-- 🌱 I’m currently learning **HTML, CSS & Javascript**
+- 🌱 I’m currently learning **React.js**
 
 - 👨🏻‍💻 Currently working on **Fullstack open**
 
