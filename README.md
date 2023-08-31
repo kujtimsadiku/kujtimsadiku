@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kujtim</h1>
-<h3 align="center">I am a Software Developer/Engineer. I currently finished my studies in HIVE Helsinki. Here you can find the work what I have done in school and in my free time.</h3>
+<h3 align="center">I am a Software Developer/Engineer. I currently finished my studies in HIVE Helsinki. Now I'm studying to become Full stack developer. Here you can find the work what I have done in school and in my free time.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kujtimsadiku" alt="kujtimsadiku" /></a> </p>
 
