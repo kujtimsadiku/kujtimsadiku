@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js && Node.js**
 
-- 👨🏻‍💻 Currently working on **Fullstack open** && **ft_pushswap**
+- 👨🏻‍💻 Currently working on **Full Stack Open** && **Portfolio**
 
 - 💬 Ask me about **my projects**
 
