@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kujtimsadiku" alt="kujtimsadiku" /></a> </p>
 
-- ✅ Projects finished recently **ft_printf**
+- ✅ Projects finished recently **Portfolio**
 
 - 🌱 I’m currently learning **React.js && Node.js**
 
-- 👨🏻‍💻 Currently working on **Full Stack Open** && **Portfolio**
+- 👨🏻‍💻 Currently working on **Full Stack Open part 8**
 
 - 💬 Ask me about **my projects**
 
