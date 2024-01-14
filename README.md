@@ -5,9 +5,9 @@
 
 - ✅ Projects finished recently **Portfolio**
 
-- 🌱 I’m currently learning **React.js && Node.js**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👨🏻‍💻 Currently working on **Full Stack Open part 8**
+- 👨🏻‍💻 Currently working on **E-Commerce Website**
 
 - 💬 Ask me about **my projects**
 
