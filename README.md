@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kujtim</h1>
-<h3 align="center">I am a passionate Junior Full Stack Developer, having completed my studies at HIVE Helsinki. Here, you can explore the diverse projects I've undertaken, showcasing my skills and dedication to creating innovative solutions.</h3>
+<h3 align="center">I am a passionate Junior Software Developer, having completed my studies at HIVE Helsinki. Here, you can explore the diverse projects I've undertaken, showcasing my skills and dedication to creating innovative solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kujtimsadiku" alt="kujtimsadiku" /></a> </p>
 
