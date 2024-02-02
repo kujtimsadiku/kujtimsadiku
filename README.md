@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kujtim</h1>
-<h3 align="center">I finished my studies at HIVE Helsinki. Now I'm studying to become Full stack developer at University of Helsinki (Full Stack Open Course). Here you can find the work that I have done in school and in my free time.</h3>
+<h3 align="center">I am a passionate Junior Full Stack Developer, having completed my studies at HIVE Helsinki. Here, you can explore the diverse projects I've undertaken, showcasing my skills and dedication to creating innovative solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kujtimsadiku" alt="kujtimsadiku" /></a> </p>
 
 - ✅ Projects finished recently **Portfolio**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React Native**
 
 - 👨🏻‍💻 Currently working on **E-Commerce Website**
 
